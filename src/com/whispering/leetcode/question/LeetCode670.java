@@ -1,3 +1,5 @@
+package com.whispering.leetcode.question;
+
 public class LeetCode670 {
 
     public static final String URL = "https://leetcode.cn/problems/maximum-swap/";

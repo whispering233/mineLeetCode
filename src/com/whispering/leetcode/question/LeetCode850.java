@@ -1,3 +1,5 @@
+package com.whispering.leetcode.question;
+
 import java.util.*;
 
 public class LeetCode850 {
